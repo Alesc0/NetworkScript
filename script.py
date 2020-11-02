@@ -1,7 +1,7 @@
 import nmap
 import time
 from pushbullet import Pushbullet
-pb = Pushbullet('o.CkGvbNmkW5biq0syYmnRbe4bhJgz1OFD')
+pb = Pushbullet('Token')
 
 n = 0
 hosts_list = []
