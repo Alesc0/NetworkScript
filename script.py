@@ -23,7 +23,7 @@ while True:
                 print(x[0] + " DISCONNECTED")
                 """ push = pb.push_note("Disconnected", "IP DISCONNECTED") """
     
-    print("........")
-    print("........")
-
     last_list = hosts_list
+
+    print("........")
+    print("........")
