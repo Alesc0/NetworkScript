@@ -21,4 +21,4 @@ while True:
         print("Disconnected")
         push = pb.push_note("Disconnected", "IP DISCONNECTED")
     else:
-        print(00000)
+        print(0000)
